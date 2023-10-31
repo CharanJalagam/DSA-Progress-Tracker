@@ -1,7 +1,7 @@
 # Progress Tracker
 
 ## DSA
-- [x] Complete Git & GitHub Course
+- [ ] Complete Git & GitHub Course
 - [x] Introduction to Programming
   - - [x] Types of languages
   - - [x] Memory management
@@ -30,17 +30,17 @@
   - - [x] Memory management 
   - - [x] Input and Output
   - - [x] ArrayList Introduction
-  - - [x] Sorting 
-    - - [x] Insertion Sort
-    - - [x] Selection Sort
-    - - [x] Bubble Sort
-    - - [x] Cyclic Sort (Merge sort etc after recursion)
+  - - [ ] Sorting 
+    - - [ ] Insertion Sort
+    - - [ ] Selection Sort
+    - - [ ] Bubble Sort
+    - - [ ] Cyclic Sort (Merge sort etc after recursion)
   - [x] Searching 
     - - [x] Linear Search
-    - - [x] Binary Search
-    - - [x] Modified Binary Search
-    - - [x] Binary Search Interview questions
-    - - [x] Binary Search on 2D Arrays
+    - - [ ] Binary Search
+    - - [ ] Modified Binary Search
+    - - [ ] Binary Search Interview questions
+    - - [ ] Binary Search on 2D Arrays
 - [x] Pattern questions
 - [x] Strings
     - [x] Introduction
@@ -53,10 +53,10 @@
     - - [x] Complete Bitwise Operators
     - - [x] Prime numbers
     - - [x] HCF / LCM
-    - - [x] Sieve of Eratosthenes
-    - - [x] Newton's Square Root Method
-    - - [x] Number Theory
-    - - [x] Euclidean algorithm
+    - - [ ] Sieve of Eratosthenes
+    - - [ ] Newton's Square Root Method
+    - - [ ] Number Theory
+    - - [ ] Euclidean algorithm
 - [x] Space and Time Complexity Analysis
     - - [x] Introduction
     - - [x] Comparion of various cases
@@ -75,14 +75,14 @@
     - - [x] Convert recursion to iteration
     - - [x] Tree building of function calls
     - - [x] Tail recursion
-    - - [x] Sorting:
-        - - [x] Merge Sort
-        - - [x] Quick Sort
+    - - [ ] Sorting:
+        - - [ ] Merge Sort
+        - - [ ] Quick Sort
     - - [x] Backtracking
-        - - [x] Sudoku Solver
-        - - [x] N-Queens
-        - - [x] N-Knights
-        - - [x] Maze problems
+        - - [ ] Sudoku Solver
+        - - [ ] N-Queens
+        - - [ ] N-Knights
+        - - [ ] Maze problems
     - - [x] Recursion String Problems
     - - [x] Recursion Array Problems
     - - [x] Recursion Pattern Problems
@@ -105,7 +105,7 @@
     - - [x] Singleton Class
     - - [x] final, finalize, finally
     - - [x] Exception Handling
-- [x] Linked List
+- [ ] Linked List
     - - [x] Introduction
     - - [x] Singly and Doubly Linked List
     - - [x] Circular Linked List
@@ -113,7 +113,7 @@
     - - [x] Cycle Detection
     - - [x] Reversing of LinekdList
     - - [x] Linked List Interview questions
-- [x] Stacks & Queues
+- [ ] Stacks & Queues
     - - [x] Introduction
     - - [x] Interview problems
     - - [x] Push efficient
@@ -121,34 +121,34 @@
     - - [x] Queue using Stack and Vice versa
     - - [x] Circular Queue
 - [ ] Dynamic Programming
-    - - [x] Introduction
-    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [x] Complexity Analysis
-    - - [x] 0/1 Knapsack
-    - - [x] Subset Questions
-    - - [x] DP on Grids
-    - - [x] LC Questions on Above topics
+    - - [ ] Introduction
+    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [ ] Complexity Analysis
+    - - [ ] 0/1 Knapsack
+    - - [ ] Subset Questions
+    - - [ ] DP on Grids
+    - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [x] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
     - - [x] Introduction
     - - [x] Binary Trees
-    - - [x] Recursive Preorder, Inorder, Postorder Traversals
-    - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [x] LC Questions
-    - - [x] DFS
-    - - [x] BFS  
-    - - [x] Morris Traversal `O(1) Space`
-    - - [x] Binary Search Trees
-    - - [x] LC Questions
+    - - [ ] Recursive Preorder, Inorder, Postorder Traversals
+    - - [ ] Iterative Preorder, Inorder, Postorder Traversals
+    - - [ ] LC Questions
+    - - [ ] DFS
+    - - [ ] BFS  
+    - - [ ] Morris Traversal `O(1) Space`
+    - - [ ] Binary Search Trees
+    - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [x] Introduction
-    - - [x] Theory
-    - - [x] Priority Queue
+    - - [ ] Introduction
+    - - [ ] Theory
+    - - [ ] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
@@ -157,43 +157,43 @@
     - - [x] Introduction
     - - [x] Theory - how it works
     - - [x] Comparisons of various forms
-    - - [x] Limitations and how to solve
-    - - [x] Map using LinkedList
-    - - [x] Map using Hash
-    - - [x] Chaining
-    - - [x] Probing
+    - - [ ] Limitations and how to solve
+    - - [ ] Map using LinkedList
+    - - [ ] Map using Hash
+    - - [ ] Chaining
+    - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Applications
-    - - [x] Insert and Search
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
+    - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [x] Introduction
-    - - [x] BFS
-    - - [x] DFS
-    - - [x] Working with graph components
-    - - [x] Bipartite Graph
-    - - [x] LC Questions
+    - - [ ] Introduction
+    - - [ ] BFS
+    - - [ ] DFS
+    - - [ ] Working with graph components
+    - - [ ] Bipartite Graph
+    - - [ ] LC Questions
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
-    - - [x] Dijkstra’s shortest path algorithm
-    - - [x] Topological Sort
-    - - [x] Kahn's Algorithm
+    - - [ ] Dijkstra’s shortest path algorithm
+    - - [ ] Topological Sort
+    - - [ ] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [x] Introduction
-    - - [x] Applications
-    - - [x] LC,GFG Questions
+    - - [ ] Introduction
+    - - [ ] Applications
+    - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
-- [x] File handling
+- [ ] File handling
 - [ ] Bitwise + DP
 - [ ] Extended Euclidean algorithm
 - [ ] Modulo Multiplicative Inverse
@@ -204,10 +204,10 @@
 - [ ] Fermat’s Theorem
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
-- [x] Lucas Theorem
-- [x] Chinese Remainder Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
